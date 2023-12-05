@@ -15,7 +15,7 @@ Dark Mode is enabled or disabled based on whether the system's theme is dark or 
 1. Cloning the repository:
 
 ```
-$ git clone https://github.com/ahmedgulabkhan/GroupChatApp.git
+$ git clone https://github.com/hariharan0202/GroupChatApp.git
 ```
 
 2. Open the project and install dependencies (using terminal):
